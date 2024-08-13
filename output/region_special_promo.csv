@@ -1,135 +1,275 @@
-promo_name,promo_url,promo_hits,region,gender,special_promo_coef,special_promo_p_val,special_promo_control_coef,special_promo_control_p_val,special_promo_dates,special_promo_control_dates
-[강원혈액원] 강원대학교와 함께하는 1004 캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180962&result=L,2181,강원,남,0.0242252394265908,0.6237946199399409,-0.019454973049823784,0.7110442762875189,33,28
-[강원혈액원] 강원대학교와 함께하는 1004 캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180962&result=L,2181,강원,여,0.11067566254730768,0.1487183157708898,0.04042256426443028,0.619706692232417,33,28
-레드커넥트 예약헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164897&result=L,20742,강원,남,-0.030501302181347015,0.3271717221175432,-0.054994054508271606,0.29198987564530265,92,28
-레드커넥트 예약헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164897&result=L,20742,강원,여,0.0063697498183713595,0.8958027497423813,-0.011862654880451117,0.8843246673268002,92,28
-헌혈하고? 문화행사 즐기자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164379&result=L,16838,강원,남,-0.020024401867151445,0.5570893073775196,-0.09589562305718416,0.06724600478204683,70,28
-헌혈하고? 문화행사 즐기자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164379&result=L,16838,강원,여,0.33836963584733165,8.159511132421159e-10,0.3074390514738937,0.0002535277990778454,70,28
-중장년층 문화 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162017&result=L,5572,강원,남,0.0957051192129923,0.060182945619714254,-0.004236735129565611,0.936093835982039,30,28
-중장년층 문화 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162017&result=L,5572,강원,여,-0.038898966676202205,0.6206825370575246,0.02997933598309043,0.7134536845001958,30,28
-[경남혈액원] 31일간 사랑나눔 헌혈캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181000&result=L,10833,경남,남,0.08381663671695619,0.10926969333201109,-0.03663890960067568,0.5018811178031366,31,28
-[경남혈액원] 31일간 사랑나눔 헌혈캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181000&result=L,10833,경남,여,-0.039352842531778495,0.5476309009382232,0.10172864882790704,0.13635906669104278,31,28
-[경남혈액원] 중장년층 헌혈자와 함께하는 프로야구경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180923&result=L,5805,경남,남,0.024016828712192947,0.7317473844082474,0.09866158018312167,0.07381622762886805,17,28
-[경남혈액원] 중장년층 헌혈자와 함께하는 프로야구경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180923&result=L,5805,경남,여,-0.045200600396576,0.6071609428208826,0.1808287781478195,0.009088891827891438,17,28
-[경남혈액원] ABO Friends를 위한 ABO 베이킹 파티! EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180900&result=L,3026,경남,남,0.03908602154842648,0.5769723307041376,0.1463191876636275,0.008114081452197176,17,28
-[경남혈액원] ABO Friends를 위한 ABO 베이킹 파티! EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180900&result=L,3026,경남,여,0.06951595621550043,0.4296647149814502,0.08891548071536708,0.19963656618182524,17,28
-경남혈액원 헌혈의집 김해센터에 놀러와! 확장 이전 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180600&result=L,4645,경남,남,0.030419360041147522,0.6918128839067118,0.004176196274676803,0.9394092672600405,14,28
-경남혈액원 헌혈의집 김해센터에 놀러와! 확장 이전 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180600&result=L,4645,경남,여,-0.1923084238758371,0.04125178299442612,-0.21347154015925943,0.0015807777266036095,14,28
-경남혈액원 헌혈자 도서 증정 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164177&result=L,18006,경남,남,-0.02725778849970013,0.582890298109157,-0.022822368218171792,0.6762099719943053,34,28
-경남혈액원 헌혈자 도서 증정 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164177&result=L,18006,경남,여,0.23871093289641185,0.00014437202692784066,-0.001332643036630422,0.9845651151887214,34,28
-31일간의 사랑나눔캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163099&result=L,15029,경남,남,0.1362308809726335,0.009026174419671849,-0.014773541078267338,0.7860327973435899,31,28
-31일간의 사랑나눔캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163099&result=L,15029,경남,여,0.42686428950285993,6.396706418401016e-11,0.16662429527395392,0.013697427512194318,31,28
-중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161697&result=L,18714,경남,남,-0.019729849971367286,0.7275101350912918,0.05757547309111646,0.29200913364423653,26,28
-중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161697&result=L,18714,경남,여,-0.06023488733974825,0.39358493545343975,-0.085263095903566,0.21074905341473024,26,28
-레드커넥트로 간편하게 예약하고 헌혈에 참여해요!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161421&result=L,9408,경남,남,0.0363257994391984,0.4906981305065893,-0.03743027388505828,0.4925820912456127,30,28
-레드커넥트로 간편하게 예약하고 헌혈에 참여해요!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161421&result=L,9408,경남,여,-0.1015212064300171,0.12286926763544408,-0.0703184047942262,0.30161567897462693,30,28
-레드커넥트 앱예약 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161177&result=L,18413,경남,남,-0.03652718262469663,0.47896133122025997,-0.06920642134758605,0.20461469407222316,31,28
-레드커넥트 앱예약 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161177&result=L,18413,경남,여,-0.07502178426235336,0.2471087869229028,0.044046927313019,0.5202375891755049,31,28
-［광주전남혈액원］생명을 살리는 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181140&result=L,3924,광주전남,남,-0.05408024955194584,0.21279008134484698,0.04135170340473198,0.3577878287003692,30,28
-［광주전남혈액원］생명을 살리는 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181140&result=L,3924,광주전남,여,-0.0764997195199641,0.25096894646678947,0.19620325596471233,0.004562838083785789,30,28
-[광주전남혈액원] 헌혈하고 야구장 가자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180921&result=L,5627,광주전남,남,0.03206615901583569,0.5185758251569949,-0.014255423808298764,0.7522225112241693,23,28
-[광주전남혈액원] 헌혈하고 야구장 가자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180921&result=L,5627,광주전남,여,0.1487060776293192,0.05040979457491929,-0.10118227627566526,0.14291955559036382,23,28
-광주전남혈액원 중장년 헌혈자 문화행사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164937&result=L,7210,광주전남,남,0.05183081652366795,0.14267907508312977,0.01204828625599639,0.7904033928293532,48,28
-광주전남혈액원 중장년 헌혈자 문화행사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164937&result=L,7210,광주전남,여,0.028702908419827727,0.5975934421367941,0.17700869330804572,0.011291934170939365,48,28
-헌혈자를 초대합니다,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163337&result=L,6432,광주전남,남,0.07299177431902217,0.22119563068051035,0.06764335857009895,0.13345728802935977,16,28
-헌혈자를 초대합니다,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163337&result=L,6432,광주전남,여,0.3200017153747571,0.0005160738656333393,0.12235764978771825,0.0780795573707651,16,28
-<철든여행> 광주전남 & 전북 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161897&result=L,5419,광주전남,남,-0.016912968331849323,0.6937438016499984,-0.012656399172953572,0.7780052208898627,31,28
-<철든여행> 광주전남 & 전북 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161897&result=L,5419,광주전남,여,-0.08789964925637618,0.17954885282957175,-0.11399314147766655,0.09596141108468743,31,28
-광주전남혈액원 30 ~ 60대 헌혈자를 응원합니다!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161741&result=L,6139,광주전남,남,-0.03051307320534292,0.47507619520329003,-0.018836396083550568,0.6762576375634208,31,28
-광주전남혈액원 30 ~ 60대 헌혈자를 응원합니다!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161741&result=L,6139,광주전남,여,-0.11613483581724512,0.07378167336155565,-0.16080334231576773,0.01913261490029863,31,28
-[대구경북혈액원] 헌혈자와 함께하는 프로야구경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180740&result=L,54936,대구경북,남,0.12869802659847512,0.0001230271634506342,-0.03417886876337093,0.4798863736458494,61,28
-[대구경북혈액원] 헌혈자와 함께하는 프로야구경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180740&result=L,54936,대구경북,여,-0.039817064703133995,0.285532618663419,-0.15430931262188466,0.004359320351265698,61,28
-대구경북혈액원 중장년층 헌혈자 문화행사,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164577&result=L,26095,대구경북,남,0.05597306501813336,0.09193282588078634,0.11905258448577385,0.016558928152773513,63,28
-대구경북혈액원 중장년층 헌혈자 문화행사,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164577&result=L,26095,대구경북,여,0.08910745218566553,0.017451126412278205,0.10327068269505044,0.0651445533825758,63,28
-2차 중장년층 헌혈자와 함께하는 프로야구 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163377&result=L,8025,대구경북,남,0.13814790751433567,0.004712995849467109,0.07129576674294028,0.1437940557440435,29,28
-2차 중장년층 헌혈자와 함께하는 프로야구 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163377&result=L,8025,대구경북,여,0.27569906113526976,6.246725853816028e-07,0.13446035083952335,0.01450143398870225,29,28
-1차 중장년층 헌혈자와 함께하는 프로야구 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163217&result=L,5434,대구경북,남,0.1641313572169686,0.008886872774230375,0.09562650927481181,0.050588680096740606,17,28
-1차 중장년층 헌혈자와 함께하는 프로야구 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163217&result=L,5434,대구경북,여,0.29695028885474195,2.668764239701295e-05,0.22213207942221794,5.6358017272483274e-05,17,28
-한국도로공사와 함께하는 등록헌혈자 프로모션!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162177&result=L,25213,대구경북,남,0.09535911430507425,0.012580049178548318,-0.04336287614133616,0.372532663414734,46,28
-한국도로공사와 함께하는 등록헌혈자 프로모션!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162177&result=L,25213,대구경북,여,0.20153959473465244,2.8793288134777036e-06,-0.04837435492794534,0.37543361402295283,46,28
-<철든여행> 대구경북 & 울산 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161857&result=L,5704,대구경북,남,0.03050382630100131,0.5377624199536248,0.11675943357936733,0.01643869295515288,27,28
-<철든여행> 대구경북 & 울산 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161857&result=L,5704,대구경북,여,0.06761958129076594,0.2262491668570788,0.1463224829074809,0.0077409817499801015,27,28
-중장년층과 함께하는 연말 문화행사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161779&result=L,13065,대구경북,남,0.07023684296647283,0.060476241611426916,0.11098617370235972,0.022764422750809126,49,28
-중장년층과 함께하는 연말 문화행사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161779&result=L,13065,대구경북,여,0.14741645939397363,0.0004980215599437158,0.05241753226218534,0.34020851801296614,49,28
-[대전세종충남혈액원]6.14 헌혈자의날 특별기념품 증정,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181160&result=L,3413,대전세종충남,남,0.5636380863225301,0.011298290042553264,0.055710899313198,0.19533762616920577,1,28
-[대전세종충남혈액원]6.14 헌혈자의날 특별기념품 증정,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181160&result=L,3413,대전세종충남,여,0.6974874414171933,0.016950821014139555,0.028263392839588362,0.6167070897110917,1,28
-[대전세종충남혈액원] 헌혈로 떠나는 무비 바캉스,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180924&result=L,27066,대전세종충남,남,0.08055546288277476,0.08187449793393305,0.011929225553683238,0.7799712219786213,24,28
-[대전세종충남혈액원] 헌혈로 떠나는 무비 바캉스,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180924&result=L,27066,대전세종충남,여,0.1624828547975901,0.007680123736474749,0.03754459559801131,0.5038420538403092,24,28
-(2차)(대전세종충남혈액원) 생명으로 이어지는 레드커넥트! AGAIN!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180781&result=L,6145,대전세종충남,남,0.031565281251110175,0.4485322426747481,0.04447882823065836,0.2974546867286871,30,28
-(2차)(대전세종충남혈액원) 생명으로 이어지는 레드커넥트! AGAIN!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180781&result=L,6145,대전세종충남,여,0.011489768146778295,0.8334743569728156,0.04116213363984863,0.4624752048078191,30,28
-[대전세종충남혈액원] 달~콤한 레드커넥트 예약 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180341&result=L,7329,대전세종충남,남,0.027072352993486693,0.501911800990188,-0.07759496347577763,0.06723951843193038,31,28
-[대전세종충남혈액원] 달~콤한 레드커넥트 예약 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180341&result=L,7329,대전세종충남,여,-0.0035474856402951766,0.9464959530290813,-0.09995389461096212,0.07221226612433654,31,28
-중장년 헌혈자님 함께 떠나 볼까요,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164137&result=L,29538,대전세종충남,남,0.0857707754527599,0.0009426653877977446,0.05945250213449972,0.16892657989193377,88,28
-중장년 헌혈자님 함께 떠나 볼까요,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164137&result=L,29538,대전세종충남,여,0.19339317191065267,1.9024987649019123e-08,0.06921406105419692,0.22486683861228554,88,28
-생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(4차: 12.25 크리스마스 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163303&result=L,12710,대전세종충남,남,0.08699902246314693,0.002027999543226763,0.06864770836401306,0.11524000031363528,74,28
-생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(4차: 12.25 크리스마스 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163303&result=L,12710,대전세종충남,여,0.10221832368745837,0.005852119965731844,0.045612074768168996,0.4264362344068796,74,28
-생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(3차: 10.09 한글날 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163301&result=L,15878,대전세종충남,남,0.048013248912892624,0.10686333583337243,-0.018160770292597987,0.6743664373243567,61,28
-생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(3차: 10.09 한글날 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163301&result=L,15878,대전세종충남,여,0.14054655375580533,0.0003404505787829529,-0.05272598625507405,0.35328429213488266,61,28
-생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(2차: 8.15 광복절 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163299&result=L,16940,대전세종충남,남,-0.04890083927834371,0.10410669917111962,0.03489741110025639,0.41346437566557936,61,28
-생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(2차: 8.15 광복절 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163299&result=L,16940,대전세종충남,여,0.03393563795135936,0.3960321457409378,0.1271358807344827,0.025225635969609663,61,28
-생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(1차: 6.14 헌혈자의 날 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163297&result=L,20400,대전세종충남,남,0.04951433477678642,0.33989045383655714,0.013226389077454088,0.7571604876432207,19,28
-생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(1차: 6.14 헌혈자의 날 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163297&result=L,20400,대전세종충남,여,0.2920365979584934,1.6488048461904393e-05,0.33873689736441187,1.6383726770759787e-09,19,28
-<철든여행> 대전세종충남 & 충북 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161899&result=L,7037,대전세종충남,남,-0.03553843080446843,0.37950239651312856,0.00014387726548185158,0.9973032579872909,31,28
-<철든여행> 대전세종충남 & 충북 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161899&result=L,7037,대전세종충남,여,0.03344463755103358,0.5278343930873376,-0.0881740503539817,0.11412394679436944,31,28
-"생명을 살린 당신, 함께해요 문화 축제",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161739&result=L,16375,대전세종충남,남,-0.023690206215495016,0.44335072148210186,0.05546456248489607,0.1924531735244728,55,28
-"생명을 살린 당신, 함께해요 문화 축제",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161739&result=L,16375,대전세종충남,여,-0.01769554863163371,0.6627459734189889,-0.01175804026320567,0.8332609393607598,55,28
-부산혈액원 30대 이상 헌혈자  문화 EVENT!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164981&result=L,9703,부산,남,0.09292611326482601,0.1931120645433726,0.2334177369789175,0.0005064955415375795,25,28
-부산혈액원 30대 이상 헌혈자  문화 EVENT!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164981&result=L,9703,부산,여,0.0905599372770841,0.17543598730377621,0.17114896546542882,0.00638395038764491,25,28
-세계 헌혈자의 날 기념 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162981&result=L,32708,부산,남,0.17047655196331868,6.628892070662924e-05,-0.0005108040043139118,0.9938362904962945,71,28
-세계 헌혈자의 날 기념 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162981&result=L,32708,부산,여,0.3166997613598936,1.913025526424004e-15,-0.05123923324005759,0.40007009570762786,71,28
-제16회 부산국제매직페스티벌과 함께하는 헌혈자 감사 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161937&result=L,5707,부산,남,0.007480711219269209,0.9360315483842776,0.015662085660966198,0.8122493161618012,14,28
-제16회 부산국제매직페스티벌과 함께하는 헌혈자 감사 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161937&result=L,5707,부산,여,-0.0009896455881236073,0.9909725792157571,0.11811109317579545,0.05652884642475975,14,28
-<철든여행> 부산 & 경남 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161859&result=L,5842,부산,남,-0.03076998976559055,0.6488551081284171,0.05165364719861,0.43269963980095516,27,28
-<철든여행> 부산 & 경남 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161859&result=L,5842,부산,여,0.009426250976409478,0.8819466953051277,0.10904169924281568,0.07808122742226112,27,28
-6.14 세계헌혈자의 날 기념 나의 반려식물 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160939&result=L,4036,부산,남,-0.08448181264235198,0.8046273857428574,-0.16040302211449692,0.01416841886591072,1,28
-6.14 세계헌혈자의 날 기념 나의 반려식물 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160939&result=L,4036,부산,여,0.25931398665593686,0.4176169462737396,-0.16444151651567102,0.007270988361199372,1,28
-부산 시민과 함께하는 세계헌혈자의날 이벤트!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160337&result=L,24030,부산,남,-0.08448181264235198,0.8046273857428574,-0.16040302211449692,0.01416841886591072,1,28
-부산 시민과 함께하는 세계헌혈자의날 이벤트!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160337&result=L,24030,부산,여,0.25931398665593686,0.4176169462737396,-0.16444151651567102,0.007270988361199372,1,28
-[울산혈액원] 롯데자이언츠 울산 홈경기 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180922&result=L,14756,울산,남,0.07877764411457894,0.13719896812585036,0.039316304420790586,0.49190898211728973,33,28
-[울산혈액원] 롯데자이언츠 울산 홈경기 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180922&result=L,14756,울산,여,0.3129290315759765,4.636921524387525e-06,0.06032660132694262,0.41092739158211256,33,28
-중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164257&result=L,7019,울산,남,0.05716747072999175,0.137372717503598,0.025738201044894396,0.6612219497660405,74,28
-중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164257&result=L,7019,울산,여,0.17778149187575706,0.0004219534648344638,0.11820029860630013,0.1237469432330314,74,28
-헌혈자의 날(6.14) 국가 기념일 지정 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163339&result=L,13172,울산,남,0.03610447677451186,0.4581635350931348,0.048421964271877206,0.4050620809234715,43,28
-헌혈자의 날(6.14) 국가 기념일 지정 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163339&result=L,13172,울산,여,0.03156229697091433,0.6106347741994249,-0.03992300178545386,0.5899108181208279,43,28
-중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162137&result=L,11722,울산,남,0.051724985052749306,0.43385286382572574,0.06918153141722698,0.23003101070814105,21,28
-중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162137&result=L,11722,울산,여,0.059256811955970344,0.48342358883668324,-0.12098680972398954,0.10097538137598222,21,28
-(전북혈액원) 전북현대모터스 홈경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180721&result=L,6221,전북,남,0.11230907274896634,0.17835803041077594,-0.0165842568150992,0.7869841613659896,15,28
-(전북혈액원) 전북현대모터스 홈경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180721&result=L,6221,전북,여,0.07232831731665064,0.5127290558890265,0.01613729185419303,0.8426405025393678,15,28
-30대 이상 헌혈자 문화 EVENT! 영화보고 홈파티 즐기자! 2차,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164737&result=L,11914,전북,남,-0.02914462468297693,0.5335449982126179,-0.07994109368406625,0.1895477175557493,49,28
-30대 이상 헌혈자 문화 EVENT! 영화보고 홈파티 즐기자! 2차,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164737&result=L,11914,전북,여,0.1686299586001645,0.007470914218383746,0.11760770797104848,0.1510777536286939,49,28
-레드커넥트 어플로 예약하고 외식하자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164537&result=L,20320,전북,남,-0.032658586078989034,0.3521322562197906,0.09290724528081973,0.13431400802191806,91,28
-레드커넥트 어플로 예약하고 외식하자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164537&result=L,20320,전북,여,0.17746437074363788,0.0001684959113298928,0.03620004176082923,0.6629135146725277,91,28
-30대 이상 헌혈자 문화 EVENT! 영화보고 홈파티 즐기자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164219&result=L,15492,전북,남,-0.05577864655578276,0.27645424258235396,-0.0019730669813254878,0.9744264993356273,42,28
-30대 이상 헌혈자 문화 EVENT! 영화보고 홈파티 즐기자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164219&result=L,15492,전북,여,0.12544625979443372,0.06546560224894961,0.23590616537062203,0.003978651435026993,42,28
-6.14 헌혈자의 날 기념 전북현대모터스 홈경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163259&result=L,14159,전북,남,0.12476194358064478,0.05295283384207371,-0.0073954912239150156,0.905068849136772,26,28
-6.14 헌혈자의 날 기념 전북현대모터스 홈경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163259&result=L,14159,전북,여,0.05052525441534321,0.5566269734487566,0.3419708904260778,3.892269619228642e-05,26,28
-전북혈액원과 함께하는 가죽공예 원데이클래스 문화EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161905&result=L,3791,전북,남,0.026220263436357163,0.7237011502521672,0.03285594657979717,0.5919924051963483,19,28
-전북혈액원과 함께하는 가죽공예 원데이클래스 문화EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161905&result=L,3791,전북,여,0.0654417434662532,0.5046816706613354,-0.018884580224703313,0.8157957760450724,19,28
-[제주혈액원]6.14헌혈자의 날 기념 제주-추자 무료탑승 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180980&result=L,10597,제주,남,0.15172030205080322,0.07563550907517014,0.1865211951084508,0.01393803928286133,22,28
-[제주혈액원]6.14헌혈자의 날 기념 제주-추자 무료탑승 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180980&result=L,10597,제주,여,0.4438495711369763,3.9525324844794e-05,0.009568986333731655,0.9201103908804712,22,28
-[제주혈액원] 6.14 대한민국 헌혈자의 날 기념 제주Utd 축구관람 문화행사 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180860&result=L,4640,제주,남,0.22732407141495892,0.002708472752807948,0.05013564125686748,0.5066439981147727,28,28
-[제주혈액원] 6.14 대한민국 헌혈자의 날 기념 제주Utd 축구관람 문화행사 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180860&result=L,4640,제주,여,0.2460741824255149,0.010481719811940864,0.10154073538707735,0.28936673277934216,28,28
-제주혈액원 중장년 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164939&result=L,6491,제주,남,-0.14835433267576675,0.016510618527583648,-0.13606644408860855,0.06726057981503995,41,28
-제주혈액원 중장년 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164939&result=L,6491,제주,여,0.13528194664267304,0.09104209739501637,-0.11274592498210215,0.24127616152468018,41,28
-제주 ABO Friends를 위한 ABO 베이킹파티!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164781&result=L,5438,제주,남,-0.15427254733675716,0.052197656044222426,-0.013073632968105887,0.8607883352922089,25,28
-제주 ABO Friends를 위한 ABO 베이킹파티!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164781&result=L,5438,제주,여,0.10767842318865795,0.29123160263144243,0.06573722489039138,0.4925940103934232,25,28
-가족과 함께하는 중장년헌혈자 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163379&result=L,7043,제주,남,-0.05962014557537182,0.456184729821125,0.1279997554229661,0.09322637148083793,25,28
-가족과 함께하는 중장년헌혈자 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163379&result=L,7043,제주,여,0.11420388265731513,0.26009038300663084,0.020641123635173876,0.830715047737358,25,28
-2021 헌혈은 컨택트! 영화는 언택트!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162217&result=L,10996,제주,남,0.03301385598238402,0.6860307893560127,-0.019928287050533768,0.7907799864266599,24,28
-2021 헌혈은 컨택트! 영화는 언택트!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162217&result=L,10996,제주,여,0.1425673472280502,0.16669128670859798,-0.07037440088226053,0.45780185547530394,24,28
-헌혈가족의 건강을 생각하는! 철분 가득 !,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161817&result=L,8743,제주,남,0.030156139338831916,0.7114309164560364,-0.012433845519615851,0.8687520216736201,24,28
-헌혈가족의 건강을 생각하는! 철분 가득 !,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161817&result=L,8743,제주,여,-0.23214266940207007,0.022802423913323953,0.027964171436497542,0.7660866525588338,24,28
-[충북혈액원]청주터미널센터 개소 기념 프로모션(개소기념품 증정),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181180&result=L,4192,충북,남,0.0679350568480484,0.37564619452888104,0.020980550160880202,0.7173105259726835,16,28
-[충북혈액원]청주터미널센터 개소 기념 프로모션(개소기념품 증정),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181180&result=L,4192,충북,여,-0.02505895973483522,0.8071825429636797,0.13059750615677237,0.09266547533586966,16,28
-[충북혈액원] 6.14 헌혈자의 날 충북청주FC 홈 경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180801&result=L,8952,충북,남,0.0004128848617592776,0.994517629625469,-0.035141248135051616,0.5429858289477907,26,28
-[충북혈액원] 6.14 헌혈자의 날 충북청주FC 홈 경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180801&result=L,8952,충북,여,0.12381005029424233,0.12564466548470662,0.02118593142567561,0.7849895682153538,26,28
-2022년 헌혈 가족 가을밤 작은 음악회,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164259&result=L,14870,충북,남,0.13303608017064084,0.018886834367513667,0.02608165360025425,0.6591941359552518,30,28
-2022년 헌혈 가족 가을밤 작은 음악회,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164259&result=L,14870,충북,여,0.3826426808558931,6.147002014793019e-07,0.08980840059213578,0.2590885939855372,30,28
-레드커넥트 헌혈앱 예약 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164057&result=L,8864,충북,남,0.031430073036967904,0.4750238335554188,0.029146473696238094,0.6172869065838744,51,28
-레드커넥트 헌혈앱 예약 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164057&result=L,8864,충북,여,0.25612552814429645,1.5408263927167128e-05,-0.14828840747714744,0.05774945112820925,51,28
-헌혈자의 날(6.14) 기념행사 및 영화 관람,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163341&result=L,14284,충북,남,0.0802515064326623,0.21474985403152705,0.04704959781312134,0.4246377736038377,23,28
-헌혈자의 날(6.14) 기념행사 및 영화 관람,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163341&result=L,14284,충북,여,0.3020775537669237,0.0005754528987466325,0.20901919806023778,0.008866402494975802,23,28
-헌혈하고 대청호로 드라이브 갈까,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163137&result=L,7215,충북,남,0.10142448203270289,0.10460604967796429,0.0026504572169023725,0.9634841747866421,24,28
-헌혈하고 대청호로 드라이브 갈까,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163137&result=L,7215,충북,여,0.4103949487370671,9.208744155446984e-07,0.43305720889930926,2.463413354572401e-08,24,28
-2021년 충북혈액원 중장년층대상 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161617&result=L,7525,충북,남,0.012335007006435665,0.8278761134304978,-0.067840891670187,0.24082911145244695,29,28
-2021년 충북혈액원 중장년층대상 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161617&result=L,7525,충북,여,-0.05942053305715225,0.4305395666729037,-0.17422994419201787,0.023495460208328416,29,28
+promo_name,promo_url,promo_hits,region,gender,special_promo_coef,special_promo_control_coef,special_promo_dates,special_promo_control_dates
+[강원혈액원] 강원대학교와 함께하는 1004 캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180962&result=L,2181,강원,남,-0.03409482342534221,0.010347306059069512,33,28
+[강원혈액원] 강원대학교와 함께하는 1004 캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180962&result=L,2181,강원,여,-0.027103031987423656,-0.13108864598328576,33,28
+레드커넥트 예약헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164897&result=L,20742,강원,남,0.11409803670452084,0.02819870449643442,92,28
+레드커넥트 예약헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164897&result=L,20742,강원,여,-0.11037099438904863,-0.11799223700518005,92,28
+헌혈하고? 문화행사 즐기자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164379&result=L,16838,강원,남,0.03297496120798379,-0.1817230684907977,68,28
+헌혈하고? 문화행사 즐기자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164379&result=L,16838,강원,여,0.3403857167107958,0.2316325309124462,68,28
+중장년층 문화 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162017&result=L,5572,강원,남,0.057048937323644175,-0.06431832690808494,30,28
+중장년층 문화 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162017&result=L,5572,강원,여,0.13025306337395867,0.08970967589366133,30,28
+[경남혈액원] 31일간 사랑나눔 헌혈캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181000&result=L,10833,경남,남,0.0764966989843368,-0.100516197230168,31,27
+[경남혈액원] 31일간 사랑나눔 헌혈캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181000&result=L,10833,경남,여,-0.1184281221253678,-0.09913912312578138,31,27
+[경남혈액원] 중장년층 헌혈자와 함께하는 프로야구경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180923&result=L,5805,경남,남,-0.1031611792834066,0.025090459195762808,16,28
+[경남혈액원] 중장년층 헌혈자와 함께하는 프로야구경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180923&result=L,5805,경남,여,-0.33121257358956535,0.059167671126196815,16,28
+[경남혈액원] ABO Friends를 위한 ABO 베이킹 파티! EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180900&result=L,3026,경남,남,-0.08355707127482279,0.08045317516447269,16,28
+[경남혈액원] ABO Friends를 위한 ABO 베이킹 파티! EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180900&result=L,3026,경남,여,-0.23833659326526796,-0.04844309152067094,16,28
+경남혈액원 헌혈의집 김해센터에 놀러와! 확장 이전 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180600&result=L,4645,경남,남,0.10115725409973923,0.05332123039444529,14,28
+경남혈액원 헌혈의집 김해센터에 놀러와! 확장 이전 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180600&result=L,4645,경남,여,-0.22068539972776494,-0.22619432664109312,14,28
+경남혈액원 헌혈자 도서 증정 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164177&result=L,18006,경남,남,-0.0706655761325696,-0.023145283166205757,32,28
+경남혈액원 헌혈자 도서 증정 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164177&result=L,18006,경남,여,0.36517081369839643,0.1680823592199658,32,28
+31일간의 사랑나눔캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163099&result=L,15029,경남,남,0.05628344103795425,-0.07744281510241399,31,27
+31일간의 사랑나눔캠페인,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163099&result=L,15029,경남,여,0.42433425527046464,0.14692625768360595,31,27
+중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161697&result=L,18714,경남,남,-0.009038017588966607,0.053663483741487314,25,27
+중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161697&result=L,18714,경남,여,-0.21789516044931992,-0.07054935789637329,25,27
+레드커넥트로 간편하게 예약하고 헌혈에 참여해요!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161421&result=L,9408,경남,남,0.06807406131178684,-0.021312489051109287,28,27
+레드커넥트로 간편하게 예약하고 헌혈에 참여해요!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161421&result=L,9408,경남,여,-0.2865818227800075,-0.10513675291812263,28,27
+레드커넥트 앱예약 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161177&result=L,18413,경남,남,0.06212302876248354,-0.04460581902907564,30,28
+레드커넥트 앱예약 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161177&result=L,18413,경남,여,-0.053726564315190316,-0.04018941642791075,30,28
+［광주전남혈액원］생명을 살리는 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181140&result=L,3924,광주전남,남,-0.02336222943107912,0.03261031317819436,30,28
+［광주전남혈액원］생명을 살리는 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181140&result=L,3924,광주전남,여,-0.03508898397354112,0.07313554237090047,30,28
+[광주전남혈액원] 헌혈하고 야구장 가자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180921&result=L,5627,광주전남,남,-0.011392364219229217,-0.014773898075491152,23,27
+[광주전남혈액원] 헌혈하고 야구장 가자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180921&result=L,5627,광주전남,여,-0.10513578002030526,-0.2080238204024465,23,27
+광주전남혈액원 중장년 헌혈자 문화행사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164937&result=L,7210,광주전남,남,0.11008392424453049,0.03460523926096943,47,28
+광주전남혈액원 중장년 헌혈자 문화행사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164937&result=L,7210,광주전남,여,0.02768587104798019,0.18752241818508847,47,28
+헌혈자를 초대합니다,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163337&result=L,6432,광주전남,남,0.056121457858349676,0.07421365629950173,16,27
+헌혈자를 초대합니다,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163337&result=L,6432,광주전남,여,0.13000952093739102,0.0035260710952564676,16,27
+<철든여행> 광주전남 & 전북 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161897&result=L,5419,광주전남,남,-0.12285277769239523,-0.052211098231155585,31,27
+<철든여행> 광주전남 & 전북 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161897&result=L,5419,광주전남,여,-0.07486403600495105,-0.07145310665549562,31,27
+광주전남혈액원 30 ~ 60대 헌혈자를 응원합니다!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161741&result=L,6139,광주전남,남,-0.16706312327746192,-0.05096796605740873,30,28
+광주전남혈액원 30 ~ 60대 헌혈자를 응원합니다!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161741&result=L,6139,광주전남,여,-0.2413836514636216,-0.15969824649349343,30,28
+[대구경북혈액원] 헌혈자와 함께하는 프로야구경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180740&result=L,54936,대구경북,남,0.057764302073050305,0.0241820292176335,60,28
+[대구경북혈액원] 헌혈자와 함께하는 프로야구경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180740&result=L,54936,대구경북,여,-0.156335982437696,-0.06576202832475991,60,28
+대구경북혈액원 중장년층 헌혈자 문화행사,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164577&result=L,26095,대구경북,남,-0.08783508854853042,-0.06206110831564042,63,28
+대구경북혈액원 중장년층 헌혈자 문화행사,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164577&result=L,26095,대구경북,여,0.06944162896305524,0.012644092100764127,63,28
+2차 중장년층 헌혈자와 함께하는 프로야구 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163377&result=L,8025,대구경북,남,-0.006715334501071352,0.008276282707821905,29,28
+2차 중장년층 헌혈자와 함께하는 프로야구 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163377&result=L,8025,대구경북,여,0.1690834273245062,0.17213862545242772,29,28
+1차 중장년층 헌혈자와 함께하는 프로야구 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163217&result=L,5434,대구경북,남,-0.007602598641052714,-0.01233499517055341,17,28
+1차 중장년층 헌혈자와 함께하는 프로야구 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163217&result=L,5434,대구경북,여,0.12564264320220733,0.201371281713624,17,28
+한국도로공사와 함께하는 등록헌혈자 프로모션!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162177&result=L,25213,대구경북,남,-0.012859314732464603,-0.06572520331482408,46,27
+한국도로공사와 함께하는 등록헌혈자 프로모션!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162177&result=L,25213,대구경북,여,0.143854916296054,-0.06455019423923163,46,27
+<철든여행> 대구경북 & 울산 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161857&result=L,5704,대구경북,남,-0.07837062095534107,0.06539413425406146,27,28
+<철든여행> 대구경북 & 울산 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161857&result=L,5704,대구경북,여,-0.08439721821534756,0.04379854287474261,27,28
+중장년층과 함께하는 연말 문화행사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161779&result=L,13065,대구경북,남,-0.02124108541617997,0.07288642097071564,49,28
+중장년층과 함께하는 연말 문화행사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161779&result=L,13065,대구경북,여,0.02500026750785191,0.004446545623814319,49,28
+[대전세종충남혈액원]6.14 헌혈자의날 특별기념품 증정,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181160&result=L,3413,대전세종충남,남,0.72330902168169,0.14700679227877506,1,28
+[대전세종충남혈액원]6.14 헌혈자의날 특별기념품 증정,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181160&result=L,3413,대전세종충남,여,0.5465828011889684,-0.10781893674166491,1,28
+[대전세종충남혈액원] 헌혈로 떠나는 무비 바캉스,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180924&result=L,27066,대전세종충남,남,0.09254787700259656,0.011227197639214273,24,28
+[대전세종충남혈액원] 헌혈로 떠나는 무비 바캉스,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180924&result=L,27066,대전세종충남,여,-0.14726061073462526,-0.12270268030032731,24,28
+(2차)(대전세종충남혈액원) 생명으로 이어지는 레드커넥트! AGAIN!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180781&result=L,6145,대전세종충남,남,0.11149390343842047,0.048077524509405944,30,28
+(2차)(대전세종충남혈액원) 생명으로 이어지는 레드커넥트! AGAIN!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180781&result=L,6145,대전세종충남,여,-0.1318181240291013,-0.10471093927139453,30,28
+[대전세종충남혈액원] 달~콤한 레드커넥트 예약 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180341&result=L,7329,대전세종충남,남,0.13959675299914406,-0.02503742663768017,31,28
+[대전세종충남혈액원] 달~콤한 레드커넥트 예약 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180341&result=L,7329,대전세종충남,여,0.024104751204905198,-0.07597344867881069,31,28
+중장년 헌혈자님 함께 떠나 볼까요,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164137&result=L,29538,대전세종충남,남,0.0907971226422078,0.14738134624020222,85,27
+중장년 헌혈자님 함께 떠나 볼까요,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164137&result=L,29538,대전세종충남,여,0.2628912029599365,0.17912054812661823,85,27
+생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(4차: 12.25 크리스마스 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163303&result=L,12710,대전세종충남,남,0.1315511531989159,0.003527587013401676,72,27
+생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(4차: 12.25 크리스마스 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163303&result=L,12710,대전세종충남,여,0.11239360282523489,0.019913543183348172,72,27
+생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(3차: 10.09 한글날 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163301&result=L,15878,대전세종충남,남,-0.0026044021174468804,-0.029723708958012164,59,27
+생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(3차: 10.09 한글날 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163301&result=L,15878,대전세종충남,여,0.1739926533714083,0.03521965867236146,59,27
+생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(2차: 8.15 광복절 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163299&result=L,16940,대전세종충남,남,-0.022901131508687392,0.03277263707811631,60,28
+생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(2차: 8.15 광복절 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163299&result=L,16940,대전세종충남,여,0.05304427335278745,0.03964194925763588,60,28
+생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(1차: 6.14 헌혈자의 날 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163297&result=L,20400,대전세종충남,남,-0.021485772493638377,-0.011627668772271178,19,28
+생명으로 이어지는 레드커넥트로 예약 헌혈 동참해요(1차: 6.14 헌혈자의 날 기념),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163297&result=L,20400,대전세종충남,여,0.051812835125869525,0.21676395365927845,19,28
+<철든여행> 대전세종충남 & 충북 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161899&result=L,7037,대전세종충남,남,-0.12175136533168651,-0.1226918949860953,31,28
+<철든여행> 대전세종충남 & 충북 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161899&result=L,7037,대전세종충남,여,-0.11055673545869413,-0.1849066329817826,31,28
+"생명을 살린 당신, 함께해요 문화 축제",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161739&result=L,16375,대전세종충남,남,-0.13200859358218497,-0.0752605644563718,55,27
+"생명을 살린 당신, 함께해요 문화 축제",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161739&result=L,16375,대전세종충남,여,-0.13860869144352628,-0.012113306632447614,55,27
+부산혈액원 30대 이상 헌혈자  문화 EVENT!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164981&result=L,9703,부산,남,0.1047115978855957,0.21279243572884876,25,28
+부산혈액원 30대 이상 헌혈자  문화 EVENT!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164981&result=L,9703,부산,여,-0.07777022827188854,0.05936604132860323,25,28
+세계 헌혈자의 날 기념 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162981&result=L,32708,부산,남,0.06168607826787833,0.024565642297489983,71,28
+세계 헌혈자의 날 기념 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162981&result=L,32708,부산,여,0.22432005395179708,-0.04386024905226135,71,28
+제16회 부산국제매직페스티벌과 함께하는 헌혈자 감사 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161937&result=L,5707,부산,남,-0.06199297976309541,-0.07235043469031142,14,28
+제16회 부산국제매직페스티벌과 함께하는 헌혈자 감사 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161937&result=L,5707,부산,여,-0.020054796926095814,0.09886347487537396,14,28
+<철든여행> 부산 & 경남 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161859&result=L,5842,부산,남,-0.162432003953924,-0.052783727470956616,27,28
+<철든여행> 부산 & 경남 ABO Friends 여행 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161859&result=L,5842,부산,여,-0.03139971917814339,0.11349062494874353,27,28
+6.14 세계헌혈자의 날 기념 나의 반려식물 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160939&result=L,4036,부산,남,-0.04450896012761416,-0.1856462136519531,1,28
+6.14 세계헌혈자의 날 기념 나의 반려식물 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160939&result=L,4036,부산,여,0.4306955578807064,-0.038483764319390525,1,28
+부산 시민과 함께하는 세계헌혈자의날 이벤트!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160337&result=L,24030,부산,남,-0.04450896012761416,-0.1856462136519531,1,28
+부산 시민과 함께하는 세계헌혈자의날 이벤트!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160337&result=L,24030,부산,여,0.4306955578807064,-0.038483764319390525,1,28
+[울산혈액원] 롯데자이언츠 울산 홈경기 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180922&result=L,14756,울산,남,-0.012615788169261519,0.04229612050425791,32,28
+[울산혈액원] 롯데자이언츠 울산 홈경기 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180922&result=L,14756,울산,여,0.22988091259562163,-0.026785519634316746,32,28
+중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164257&result=L,7019,울산,남,0.01588554367534429,0.005116496420399932,72,28
+중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164257&result=L,7019,울산,여,0.1851893795117226,0.10587775967992759,72,28
+헌혈자의 날(6.14) 국가 기념일 지정 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163339&result=L,13172,울산,남,-0.007312831915346066,0.03707141261948661,43,28
+헌혈자의 날(6.14) 국가 기념일 지정 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163339&result=L,13172,울산,여,-0.06945846506242118,-0.18773961911063217,43,28
+중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162137&result=L,11722,울산,남,0.02976167428078509,0.027211461370782095,21,28
+중장년 힐링UP! 헌혈 문화 EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162137&result=L,11722,울산,여,0.1359862241859526,-0.10742557365140959,21,28
+(전북혈액원) 전북현대모터스 홈경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180721&result=L,6221,전북,남,0.011089018530880176,-0.08294555478987777,14,28
+(전북혈액원) 전북현대모터스 홈경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180721&result=L,6221,전북,여,0.031257058181681764,-0.032234252845604654,14,28
+30대 이상 헌혈자 문화 EVENT! 영화보고 홈파티 즐기자! 2차,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164737&result=L,11914,전북,남,0.03412131264075017,-0.038635881193446554,48,27
+30대 이상 헌혈자 문화 EVENT! 영화보고 홈파티 즐기자! 2차,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164737&result=L,11914,전북,여,0.15343965101978635,0.12421009037541177,48,27
+레드커넥트 어플로 예약하고 외식하자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164537&result=L,20320,전북,남,0.06211350866323548,0.12458326289220557,90,24
+레드커넥트 어플로 예약하고 외식하자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164537&result=L,20320,전북,여,0.18012236698437026,-0.0756008072912418,90,24
+30대 이상 헌혈자 문화 EVENT! 영화보고 홈파티 즐기자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164219&result=L,15492,전북,남,0.013485819437988641,0.06301428521745503,42,25
+30대 이상 헌혈자 문화 EVENT! 영화보고 홈파티 즐기자!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164219&result=L,15492,전북,여,0.06361457899112102,0.1733783301173549,42,25
+6.14 헌혈자의 날 기념 전북현대모터스 홈경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163259&result=L,14159,전북,남,0.03980013415594106,-0.06306493952697527,26,28
+6.14 헌혈자의 날 기념 전북현대모터스 홈경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163259&result=L,14159,전북,여,-0.0661047602769519,0.26512380078252235,26,28
+전북혈액원과 함께하는 가죽공예 원데이클래스 문화EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161905&result=L,3791,전북,남,-0.09305481898694955,-0.09415038579468736,19,28
+전북혈액원과 함께하는 가죽공예 원데이클래스 문화EVENT,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161905&result=L,3791,전북,여,-0.10868911000031357,-0.15138099476968317,19,28
+[제주혈액원]6.14헌혈자의 날 기념 제주-추자 무료탑승 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180980&result=L,10597,제주,남,0.21734494763006115,0.25534118408951734,22,28
+[제주혈액원]6.14헌혈자의 날 기념 제주-추자 무료탑승 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180980&result=L,10597,제주,여,0.25443722139314995,-0.08379543454935953,22,28
+[제주혈액원] 6.14 대한민국 헌혈자의 날 기념 제주Utd 축구관람 문화행사 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180860&result=L,4640,제주,남,0.3194982766264508,0.08143350818205075,28,28
+[제주혈액원] 6.14 대한민국 헌혈자의 날 기념 제주Utd 축구관람 문화행사 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180860&result=L,4640,제주,여,0.0471245330032151,0.04125678801880948,28,28
+제주혈액원 중장년 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164939&result=L,6491,제주,남,-0.08927260483641467,-0.22952848439475737,41,28
+제주혈액원 중장년 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164939&result=L,6491,제주,여,0.23868520607771374,-0.046306438837764,41,28
+제주 ABO Friends를 위한 ABO 베이킹파티!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164781&result=L,5438,제주,남,-0.18549703794467298,-0.030683886374486654,25,28
+제주 ABO Friends를 위한 ABO 베이킹파티!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164781&result=L,5438,제주,여,0.20202004200234203,0.16103434969849667,25,28
+가족과 함께하는 중장년헌혈자 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163379&result=L,7043,제주,남,-0.13396663483161586,0.0974472147421002,25,28
+가족과 함께하는 중장년헌혈자 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163379&result=L,7043,제주,여,-0.14592150277808444,-0.09118246092181131,25,28
+2021 헌혈은 컨택트! 영화는 언택트!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162217&result=L,10996,제주,남,0.01616904195910602,0.003921811776796242,24,28
+2021 헌혈은 컨택트! 영화는 언택트!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162217&result=L,10996,제주,여,0.2990354589664932,-0.005961377020002719,24,28
+헌혈가족의 건강을 생각하는! 철분 가득 !,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161817&result=L,8743,제주,남,0.1997089801103992,0.008896326735669138,24,28
+헌혈가족의 건강을 생각하는! 철분 가득 !,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161817&result=L,8743,제주,여,-0.4393546911029054,-0.007443014863412417,24,28
+[충북혈액원]청주터미널센터 개소 기념 프로모션(개소기념품 증정),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181180&result=L,4192,충북,남,0.13128668234200586,0.043706658631184246,16,28
+[충북혈액원]청주터미널센터 개소 기념 프로모션(개소기념품 증정),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181180&result=L,4192,충북,여,-0.16945635050949495,-0.05575030039779699,16,28
+[충북혈액원] 6.14 헌혈자의 날 충북청주FC 홈 경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180801&result=L,8952,충북,남,-0.038143491144361684,-0.05325003396516348,26,28
+[충북혈액원] 6.14 헌혈자의 날 충북청주FC 홈 경기 관람 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180801&result=L,8952,충북,여,-0.27391266836980155,-0.18016475974730853,26,28
+2022년 헌혈 가족 가을밤 작은 음악회,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164259&result=L,14870,충북,남,-0.023276295071271703,-0.05171290832991909,29,28
+2022년 헌혈 가족 가을밤 작은 음악회,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164259&result=L,14870,충북,여,0.4784195892050154,0.1530151458389747,29,28
+레드커넥트 헌혈앱 예약 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164057&result=L,8864,충북,남,-0.10115209301832721,0.03607151386448892,50,28
+레드커넥트 헌혈앱 예약 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164057&result=L,8864,충북,여,0.2713446158989505,-0.07374393946191034,50,28
+헌혈자의 날(6.14) 기념행사 및 영화 관람,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163341&result=L,14284,충북,남,0.05062154363302558,0.08500974395341104,23,27
+헌혈자의 날(6.14) 기념행사 및 영화 관람,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163341&result=L,14284,충북,여,0.26146105384087465,0.09914896036576966,23,27
+헌혈하고 대청호로 드라이브 갈까,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163137&result=L,7215,충북,남,0.16732443949022255,-0.0012650445143074043,24,28
+헌혈하고 대청호로 드라이브 갈까,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163137&result=L,7215,충북,여,0.2894961898806387,0.3962875113742449,24,28
+2021년 충북혈액원 중장년층대상 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161617&result=L,7525,충북,남,-0.26269667454523565,-0.2065440696881964,29,28
+2021년 충북혈액원 중장년층대상 문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161617&result=L,7525,충북,여,-0.1538581270590252,-0.22163475852010742,29,28
+(경기혈액원)6.14헌혈자의 날 기념 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181142&result=L,3928,경기,남,0.15631966599018757,0.02216291199251588,4,27
+(경기혈액원)6.14헌혈자의 날 기념 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181142&result=L,3928,경기,여,0.09600901750105943,-0.1270835618497286,4,27
+[경기혈액원] 2023년 헌혈자의 날(6.14)기념 헌혈자 초청 프로모션( KT위즈 vs 삼성라이온즈),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180960&result=L,12354,경기,남,0.08884084725764131,-0.04919039243313781,16,28
+[경기혈액원] 2023년 헌혈자의 날(6.14)기념 헌혈자 초청 프로모션( KT위즈 vs 삼성라이온즈),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180960&result=L,12354,경기,여,-0.022136321558809433,-0.1357904209047053,16,28
+경기혈액원 중장년 문화행사 서울스카이 겨울풀코스,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164457&result=L,15754,경기,남,-0.025896139443447097,0.07078187768066449,52,26
+경기혈액원 중장년 문화행사 서울스카이 겨울풀코스,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164457&result=L,15754,경기,여,-0.00017472295575331607,0.08262545734236287,52,26
+헌혈하는 당신에게 지금쏜닭,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163417&result=L,31614,경기,남,0.024681456476097104,-0.05440844953874186,28,28
+헌혈하는 당신에게 지금쏜닭,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163417&result=L,31614,경기,여,0.10486541325890894,0.03012207381478424,28,28
+Thanks! 헌혈자를 위해 산타가 쏜다!!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161777&result=L,23294,경기,남,0.037888906618431466,0.033128846354443714,43,27
+Thanks! 헌혈자를 위해 산타가 쏜다!!!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161777&result=L,23294,경기,여,0.05898453768808968,0.1278619294654735,43,27
+다회헌혈자를 위한 2021 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161657&result=L,20547,경기,남,0.051414239327935485,-0.038214590293444324,49,27
+다회헌혈자를 위한 2021 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161657&result=L,20547,경기,여,0.08680271930066398,0.046736144788920346,49,27
+경기혈액원과 함께하는 시원한 여름나기 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160781&result=L,21772,경기,남,0.03580963989470005,0.14266249465060254,61,28
+경기혈액원과 함께하는 시원한 여름나기 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160781&result=L,21772,경기,여,0.05079583604970373,0.05175928820194069,61,28
+[서울남부혈액원] 헌혈하고 야구보자! (프로야구관람 프로모션),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181281&result=L,4864,서울남부,남,0.20295416043409548,0.11819666307751686,11,28
+[서울남부혈액원] 헌혈하고 야구보자! (프로야구관람 프로모션),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181281&result=L,4864,서울남부,여,0.09115518368643434,0.18208278548832094,11,28
+[서울남부]6.14 달콤한 프로모션!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181141&result=L,2851,서울남부,남,0.48654663910835894,0.02980425780625722,3,28
+[서울남부]6.14 달콤한 프로모션!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181141&result=L,2851,서울남부,여,1.028002785823494,-0.05545395956803397,3,28
+[서울남부]농심과 함께 하는 건강 UP 헌혈 프로모션(6월),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181080&result=L,7753,서울남부,남,0.07853388164753719,0.06473444895229964,30,28
+[서울남부]농심과 함께 하는 건강 UP 헌혈 프로모션(6월),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181080&result=L,7753,서울남부,여,0.020822723603244008,-0.08989473968626756,30,28
+"[서울남부] 판교, 하남센터 여름맞이 이벤트",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181021&result=L,1911,서울남부,남,-0.05559543486940446,0.05925882550425241,5,28
+"[서울남부] 판교, 하남센터 여름맞이 이벤트",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181021&result=L,1911,서울남부,여,-0.16418158671941593,0.011683083124415761,5,28
+[서울남부] 이마트 쓱고우와 함께하는 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180940&result=L,5539,서울남부,남,0.013107492926793075,-0.0566722943973371,27,28
+[서울남부] 이마트 쓱고우와 함께하는 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180940&result=L,5539,서울남부,여,-0.026102046332456108,-0.020348867619116272,27,28
+[서울남부]농심과 함께 하는 건강 UP 헌혈 프로모션(5월),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180800&result=L,7626,서울남부,남,-0.022444078421888565,0.014175384104132157,30,28
+[서울남부]농심과 함께 하는 건강 UP 헌혈 프로모션(5월),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180800&result=L,7626,서울남부,여,-0.065373480902007,-0.021722738877365533,30,28
+[서울남부] 레깅스 추가 증정 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180660&result=L,2245,서울남부,남,-0.12999260194513987,-0.015158843786082751,2,28
+[서울남부] 레깅스 추가 증정 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180660&result=L,2245,서울남부,여,0.09275738364696956,-0.04057609167852834,2,28
+[서울남부]농심과 함께 하는 건강 UP 헌혈 프로모션(4월),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180586&result=L,10024,서울남부,남,-0.028713302875511534,0.08687866869548895,30,27
+[서울남부]농심과 함께 하는 건강 UP 헌혈 프로모션(4월),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180586&result=L,10024,서울남부,여,-0.03372431453009627,-0.019231014924320278,30,27
+[서울남부]농심과 함께 하는 건강 UP 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180362&result=L,12431,서울남부,남,0.15123350756974258,-0.05205921676046872,31,28
+[서울남부]농심과 함께 하는 건강 UP 헌혈 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180362&result=L,12431,서울남부,여,-0.05073528787956386,-0.04944630024648709,31,28
+[서울남부]3·1운동 헌혈운동,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180361&result=L,11471,서울남부,남,0.15123350756974258,-0.05205921676046872,31,28
+[서울남부]3·1운동 헌혈운동,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180361&result=L,11471,서울남부,여,-0.05073528787956386,-0.04944630024648709,31,28
+[서울남부혈액원]코엑스 아쿠아리움과 함께하는 새해맞이 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180082&result=L,12760,서울남부,남,0.06678617684094505,-0.063932136652724,73,28
+[서울남부혈액원]코엑스 아쿠아리움과 함께하는 새해맞이 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180082&result=L,12760,서울남부,여,-0.07376636186833987,-0.0996225091939657,73,28
+[서울남부혈액원]1월  혈소판 헌혈 주간 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180081&result=L,5369,서울남부,남,0.0642340513272193,-0.032485345522394904,8,28
+[서울남부혈액원]1월  혈소판 헌혈 주간 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180081&result=L,5369,서울남부,여,0.014310261221992755,-0.12999307286384126,8,28
+2022년 서울남부혈액원 크리스마스 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=165217&result=L,19820,서울남부,남,-0.033648167582578235,0.10001769071429993,25,27
+2022년 서울남부혈액원 크리스마스 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=165217&result=L,19820,서울남부,여,-0.17171668846493296,-0.13358121980655482,25,27
+헌혈한 당신을 위한 특별한 하루,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164417&result=L,22203,서울남부,남,-0.03039208358435711,0.019498551255332786,61,26
+헌혈한 당신을 위한 특별한 하루,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164417&result=L,22203,서울남부,여,0.052376484435784444,0.35537810216348337,61,26
+봄에는 헌혈,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162897&result=L,21354,서울남부,남,-0.23303187660597852,-0.08183971128862699,32,28
+봄에는 헌혈,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162897&result=L,21354,서울남부,여,-0.03910486174470538,0.09480644146648946,32,28
+3·1운동 헌혈운동,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162777&result=L,19558,서울남부,남,-0.22263201220221307,-0.14774043386066096,31,28
+3·1운동 헌혈운동,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162777&result=L,19558,서울남부,여,-0.07157158767752299,0.05065893034694068,31,28
+서울남부혈액원에서 헌혈하고 호랑이 기운 받아가세요,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162657&result=L,5658,서울남부,남,-0.06504687557697407,-0.043758299370206394,9,28
+서울남부혈액원에서 헌혈하고 호랑이 기운 받아가세요,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162657&result=L,5658,서울남부,여,-0.0429567327353185,-0.016969256624448835,9,28
+새해맞이 내지갑속선물 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162505&result=L,23069,서울남부,남,-0.12427763273037322,-0.0009883495819885603,21,24
+새해맞이 내지갑속선물 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162505&result=L,23069,서울남부,여,-0.04553607889411597,0.10113042034587194,21,24
+2021년 서울남부혈액원 크리스마스 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162297&result=L,18975,서울남부,남,-0.017006102354998665,0.08857937181524259,19,26
+2021년 서울남부혈액원 크리스마스 이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162297&result=L,18975,서울남부,여,0.15809831055975265,0.25285332433513424,19,26
+서울남부혈액원 30~60대 헌혈자를 응원합니다!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161901&result=L,15181,서울남부,남,0.038307163062001444,0.02370782292697693,30,28
+서울남부혈액원 30~60대 헌혈자를 응원합니다!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161901&result=L,15181,서울남부,여,0.14905359915878244,0.06031752437890572,30,28
+나랑 별 보러 가지 않을래?,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161017&result=L,21380,서울남부,남,-0.1158025629436444,0.017447074018912163,49,28
+나랑 별 보러 가지 않을래?,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161017&result=L,21380,서울남부,여,-0.07852452599444039,-0.16507448404294073,49,28
+[서울동부혈액원] 헌혈자의 날(6.14) 기념 특별기념품 증정,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181161&result=L,3468,서울동부,남,0.5660625621118702,-0.083194305589181,2,28
+[서울동부혈액원] 헌혈자의 날(6.14) 기념 특별기념품 증정,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181161&result=L,3468,서울동부,여,0.9833108983803698,0.04270535880328585,2,28
+[서울동부혈액원] 헌혈자의 날 축제 614 투게더 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180981&result=L,36853,서울동부,남,0.008610117823171252,-0.06956602600267822,21,28
+[서울동부혈액원] 헌혈자의 날 축제 614 투게더 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180981&result=L,36853,서울동부,여,0.13817530979629675,-0.012534064296382399,21,28
+[서울동부혈액원] 헌혈하고 예뻐져봄!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180640&result=L,11041,서울동부,남,-0.07201958813857172,-0.14920299500745154,14,27
+[서울동부혈액원] 헌혈하고 예뻐져봄!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180640&result=L,11041,서울동부,여,-0.01150657841367947,-0.09603209793477722,14,27
+[서울동부혈액원] 4.1~4.16 헌혈하고 롯데월드로 봄소풍 떠나봄!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180560&result=L,11989,서울동부,남,-0.14815964672780912,0.111489943541156,16,28
+[서울동부혈액원] 4.1~4.16 헌혈하고 롯데월드로 봄소풍 떠나봄!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180560&result=L,11989,서울동부,여,-0.14141976053911934,-0.022122318543632412,16,28
+[서울동부혈액원] 3.24(금) 뮤지컬 베토벤 공연/추첨 증정 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180501&result=L,6240,서울동부,남,0.2560215791992305,0.15878460778195994,7,28
+[서울동부혈액원] 3.24(금) 뮤지컬 베토벤 공연/추첨 증정 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180501&result=L,6240,서울동부,여,-0.00907260570220653,-0.062007511341628,7,28
+[서울동부혈액원] 3.17(금) 뮤지컬 베토벤 추첨 증정 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180500&result=L,1281,서울동부,남,0.32970498844610363,0.28356389161822265,1,28
+[서울동부혈액원] 3.17(금) 뮤지컬 베토벤 추첨 증정 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180500&result=L,1281,서울동부,여,0.28661917331259473,-0.007206944208222174,1,28
+[서울동부혈액원] 3.15(수) 뮤지컬 베토벤 추첨 증정 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180460&result=L,3839,서울동부,남,0.3833166085819726,0.2618679782885244,1,28
+[서울동부혈액원] 3.15(수) 뮤지컬 베토벤 추첨 증정 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180460&result=L,3839,서울동부,여,0.24335389994206705,0.031119831045441925,1,28
+[서울동부혈액원] 추위 뚫고 따뜻한 헌혈 사랑 나누기,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180200&result=L,9515,서울동부,남,0.1459884345959186,0.16646016185732818,27,26
+[서울동부혈액원] 추위 뚫고 따뜻한 헌혈 사랑 나누기,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180200&result=L,9515,서울동부,여,-0.006246258203565294,0.09035389531840275,27,26
+서울동부혈액원 중장년 문화행사 (11월:롯데월드),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164341&result=L,7020,서울동부,남,0.058204670311373274,-0.06321978604279277,30,28
+서울동부혈액원 중장년 문화행사 (11월:롯데월드),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164341&result=L,7020,서울동부,여,-0.01841530466709071,-0.12455433335740418,30,28
+서울동부혈액원 중장년 문화행사 (10월:템플스테이),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164339&result=L,4939,서울동부,남,-0.0181350710170155,-0.059019928752326756,31,28
+서울동부혈액원 중장년 문화행사 (10월:템플스테이),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164339&result=L,4939,서울동부,여,0.03620672554147695,-0.06065907380609929,31,28
+서울동부혈액원 중장년 문화행사 (9월:한강 디너크루즈),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164337&result=L,12454,서울동부,남,0.058186385787229386,-0.016842258635632542,28,28
+서울동부혈액원 중장년 문화행사 (9월:한강 디너크루즈),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164337&result=L,12454,서울동부,여,0.2714441393975805,0.12294264943971944,28,28
+서울동부혈액원 헌혈자의날 축제 “육일사 투게더” ,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163257&result=L,42154,서울동부,남,0.02865500406687154,0.0554036464863009,33,28
+서울동부혈액원 헌혈자의날 축제 “육일사 투게더” ,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163257&result=L,42154,서울동부,여,0.01277544510369755,-0.0014407779686805172,33,28
+"새로운 시작은 헌혈과 함께, FILA와 함께!",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162749&result=L,45819,서울동부,남,-0.14930975538017296,-0.08459549593496056,62,28
+"새로운 시작은 헌혈과 함께, FILA와 함께!",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162749&result=L,45819,서울동부,여,0.08149695822158168,0.06289892037690233,62,28
+1020 헌혈자를 위한 달콤한 크리스마스,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162099&result=L,20304,서울동부,남,-0.04845532377281054,-0.012204394537701568,31,28
+1020 헌혈자를 위한 달콤한 크리스마스,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162099&result=L,20304,서울동부,여,0.1058365557910619,0.06717275638460853,31,28
+3060 헌혈자를 위한 환상의 서울데이트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161737&result=L,30165,서울동부,남,-0.04294956266264739,-0.041341957887562494,28,28
+3060 헌혈자를 위한 환상의 서울데이트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161737&result=L,30165,서울동부,여,-0.06000410265496747,0.08718647156804733,28,28
+세계헌혈자의 날 기념 '육일사 투게더',https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160699&result=L,51202,서울동부,남,0.08976578482937565,-0.08072876109389407,49,28
+세계헌혈자의 날 기념 '육일사 투게더',https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=160699&result=L,51202,서울동부,여,-0.004370660016404175,-0.0022885773981712937,49,28
+(서울중앙혈액원)목동센터 개소 N주년 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181402&result=L,1714,서울중앙,남,0.38272078675866306,0.17550021883560188,3,16
+(서울중앙혈액원)목동센터 개소 N주년 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181402&result=L,1714,서울중앙,여,0.41723834344199295,0.46717914514719433,3,16
+(서울중앙혈액원)대화역센터 개소 N주년 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181382&result=L,1387,서울중앙,남,-0.010878243004753981,0.123709644663721,3,23
+(서울중앙혈액원)대화역센터 개소 N주년 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181382&result=L,1387,서울중앙,여,0.5676577020794811,0.3068600932924925,3,23
+[서울중앙혈액원] 구로디지털단지역센터 개소 N주년 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181360&result=L,2677,서울중앙,남,0.1732054740203712,0.12159954464764614,3,26
+[서울중앙혈액원] 구로디지털단지역센터 개소 N주년 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181360&result=L,2677,서울중앙,여,0.4803783274438749,0.277281798407141,3,26
+[서울중앙혈액원] 영화 밀수 시사회 응모 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181323&result=L,5432,서울중앙,남,0.2610309169422804,0.018971807950722314,2,28
+[서울중앙혈액원] 영화 밀수 시사회 응모 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181323&result=L,5432,서울중앙,여,0.1932730988840437,0.24037037518939938,2,28
+[서울중앙혈액원] 중앙센터 개소 N주년 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181322&result=L,4530,서울중앙,남,0.13810334343889377,0.030742232049021465,3,28
+[서울중앙혈액원] 중앙센터 개소 N주년 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181322&result=L,4530,서울중앙,여,0.22234948103768798,0.2498957992588726,3,28
+"[서울중앙혈액원] 서울대역,우장산역센터 개소 N주년 프로모션",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181280&result=L,1111,서울중앙,남,0.007355961572361224,0.0019373600596369355,3,28
+"[서울중앙혈액원] 서울대역,우장산역센터 개소 N주년 프로모션",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181280&result=L,1111,서울중앙,여,0.018969585484596,0.16002372124596964,3,28
+(서울중앙혈액원)헌혈자와 함께 하는 행복한 헌혈자의날 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181120&result=L,18865,서울중앙,남,0.23240799272639995,0.007850719197679249,8,28
+(서울중앙혈액원)헌혈자와 함께 하는 행복한 헌혈자의날 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181120&result=L,18865,서울중앙,여,0.05310766765784252,-0.04617830236883981,8,28
+[서울중앙혈액원] 6.14. 헌혈자의날 기념 영화 '귀공자' 시사회 초대 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181020&result=L,8240,서울중앙,남,-0.029262293741098334,0.053853480675878834,8,28
+[서울중앙혈액원] 6.14. 헌혈자의날 기념 영화 '귀공자' 시사회 초대 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181020&result=L,8240,서울중앙,여,-0.2735921548107297,0.020011313937252157,8,28
+(서울중앙)영화 리바운드 시사회 초대,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180540&result=L,2565,서울중앙,남,-0.006927684896837791,-0.033193124729341175,2,28
+(서울중앙)영화 리바운드 시사회 초대,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180540&result=L,2565,서울중앙,여,-0.2886214314021816,-0.12839250173427125,2,28
+"(서울중앙)헌혈하고 점심 먹자, Let's B-Lunch 프로모션",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180522&result=L,9953,서울중앙,남,-0.11638965701034454,0.011702396307683612,26,28
+"(서울중앙)헌혈하고 점심 먹자, Let's B-Lunch 프로모션",https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180522&result=L,9953,서울중앙,여,-0.12308809420309959,-0.06315491588669334,26,28
+[서울중앙혈액원]새학기를 맞아 충전해 DREAM 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180320&result=L,11142,서울중앙,남,0.11122546516674173,0.0014380226808143675,31,28
+[서울중앙혈액원]새학기를 맞아 충전해 DREAM 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180320&result=L,11142,서울중앙,여,-0.10543638082591131,-0.046266779471569916,31,28
+2023년 설맞이 프로모션 꽃길만 걷끼,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180080&result=L,6790,서울중앙,남,0.1190975811494349,-0.021243380593767867,6,28
+2023년 설맞이 프로모션 꽃길만 걷끼,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180080&result=L,6790,서울중앙,여,0.0499575042106554,-0.09492445817769024,6,28
+어른이들 선물은 레드크로스가 쏜다!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=165299&result=L,18369,서울중앙,남,0.15237907774193646,0.09702978761889589,14,27
+어른이들 선물은 레드크로스가 쏜다!,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=165299&result=L,18369,서울중앙,여,-0.12135727678253459,-0.2386458440560061,14,27
+3060 헌혈프로모션 (2차),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164617&result=L,18381,서울중앙,남,-0.07217455865621951,-0.06522293445606192,20,28
+3060 헌혈프로모션 (2차),https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164617&result=L,18381,서울중앙,여,-0.09238824485297975,0.03249950006937712,20,28
+3060 헌혈프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164425&result=L,15901,서울중앙,남,-0.13098085235316095,0.047404415618552506,21,27
+3060 헌혈프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164425&result=L,15901,서울중앙,여,0.03846882824276402,0.21223051486598835,21,27
+꽃중년 꽃보다 헌혈,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164097&result=L,7352,서울중앙,남,-0.1158321535524365,0.07379936219008149,31,27
+꽃중년 꽃보다 헌혈,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164097&result=L,7352,서울중앙,여,-0.008112545801238774,0.13665913861291565,31,27
+2022년 헌혈자의 날(6.14) “함께해요!”,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163419&result=L,28572,서울중앙,남,-0.06560577416810352,-0.027104731615209283,31,28
+2022년 헌혈자의 날(6.14) “함께해요!”,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=163419&result=L,28572,서울중앙,여,-0.004228663475662612,-0.08270877061399579,31,28
+헌혈하고 집에서 즐기는 '낭만 홈캠핑',https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162377&result=L,39260,서울중앙,남,-0.11208231647081822,0.009572936728945821,31,28
+헌혈하고 집에서 즐기는 '낭만 홈캠핑',https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162377&result=L,39260,서울중앙,여,0.1299089477134437,0.05677002187057107,31,28
+2021년 중장년 헌혈자를 위한 서울중앙혈액원 헌혈문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162097&result=L,12000,서울중앙,남,0.03239837198019523,-0.05231477714514977,17,28
+2021년 중장년 헌혈자를 위한 서울중앙혈액원 헌혈문화이벤트,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=162097&result=L,12000,서울중앙,여,0.07468496107976542,-0.030038217996343382,17,28
+2021 추석맞이 마음전달 ‘헌혈을 부탁해’,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161381&result=L,10030,서울중앙,남,0.04890645904779554,0.08073531940559543,14,26
+2021 추석맞이 마음전달 ‘헌혈을 부탁해’,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161381&result=L,10030,서울중앙,여,-0.30895638601640985,-0.16329958654532828,14,26
+HOT한 여름 COOL한 헌혈,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161097&result=L,16704,서울중앙,남,-0.007414458400360471,-0.09326252642462038,25,28
+HOT한 여름 COOL한 헌혈,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=161097&result=L,16704,서울중앙,여,-0.09531444703369726,-0.20349316991470034,25,28
+[인천혈액원] 헌혈의집 시흥센터 개소 3개월 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181081&result=L,1495,인천,남,0.050409861024267553,0.09512860633322923,8,28
+[인천혈액원] 헌혈의집 시흥센터 개소 3개월 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181081&result=L,1495,인천,여,0.08034400291419715,-0.005922096224526103,8,28
+[인천혈액원] 2023년 헌혈자의 날 기념 감사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181040&result=L,13331,인천,남,0.20621018554436438,0.010994927574870656,7,27
+[인천혈액원] 2023년 헌혈자의 날 기념 감사 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=181040&result=L,13331,인천,여,0.0797555879073802,-0.04729132698032809,7,27
+[인천혈액원] 성년의날 기념 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180861&result=L,1495,인천,남,-0.06015932109036032,0.020864497373812695,1,28
+[인천혈액원] 성년의날 기념 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180861&result=L,1495,인천,여,0.26924806146209174,-0.1320826785466386,1,28
+[인천혈액원] 10대 헌혈 응원 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180160&result=L,2713,인천,남,0.01218797558824832,0.04939989471879294,23,26
+[인천혈액원] 10대 헌혈 응원 프로모션,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=180160&result=L,2713,인천,여,-0.02502815003057127,-0.03380603160584864,23,26
+인천혈액원 중장년층 문화행사,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164979&result=L,8927,인천,남,0.08516670759006618,-0.1239590952833383,27,28
+인천혈액원 중장년층 문화행사,https://www.bloodinfo.net/knrcbs/pr/promtn/promtnInfoView.do?mi=1099&promtnSn=164979&result=L,8927,인천,여,-0.139485219123103,0.0018555573671890997,27,28
