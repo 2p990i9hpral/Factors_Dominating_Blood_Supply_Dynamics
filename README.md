@@ -1,10 +1,8 @@
 # Documents
 
-[Paper](<How is Korea’s Blood Supply Maintained.pdf>)  
-
+### [Paper](<How is Korea’s Blood Supply Maintained.pdf>)  
+### [Presentation](<Presentation.pdf>)
 ![](<images/ppt_thumbnail.png>)  
-[Presentation](<Presentation.pdf>)
-
 # Summary
 
 - 위기 상황시의 혈액 수요/공급 변화 모델링
